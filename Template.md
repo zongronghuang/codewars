@@ -1,4 +1,4 @@
-# [QUESTION_NAME]
+# QUESTION_NAME
 
 [Question](QUESTION_LINK)
 
