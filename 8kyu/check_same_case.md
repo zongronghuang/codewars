@@ -34,7 +34,7 @@ function sameCase(a, b) {
 
 ## Pickups
 
-**`String.match()` 用法**
+**`String.match()`**
 
 - 找到符合的字元，回傳陣列 (一個元素或多個元素)
 - 找不到符合的字元，回傳 `null`

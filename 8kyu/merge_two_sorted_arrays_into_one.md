@@ -12,15 +12,19 @@ function mergeArrays(arr1, arr2) {
 
 ## Pickups
 
-`Set()` 可以接受 iterable 物件為傳入值，而且會去除 iterable 值內重覆的元素。
+**`Set()`**
+
+可以接受 iterable 物件為傳入值，而且會去除 iterable 值內重覆的元素。
 
 [Set() constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set/Set)
 
-`Array.from()` 可接受 iterable 為傳入值，再回傳新的陣列。
+**`Array.from()`**
+
+可接受 iterable 為傳入值，再回傳新的陣列。
 
 [Array.from()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
 
-JavaScript 原生的 iterable 物件：
+**JavaScript 原生的 iterable 物件**
 
 - String
 - Array

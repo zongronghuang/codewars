@@ -12,7 +12,7 @@ function multipleOfIndex(array) {
 
 ## Pickups
 
-`Array.filter()` 用法
+**`Array.filter()`**
 
 裡面會放入一個篩選元素用的 callback 函式。然而，callback 回傳的必須是篩選條件，而非符合條件的元素：
 
@@ -26,4 +26,4 @@ arr.filter((x) => {
 }); // [2, 4]
 ```
 
-(Array.prototype.filter())[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter]
+[Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
