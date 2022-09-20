@@ -10,7 +10,7 @@ function mergeArrays(arr1, arr2) {
 }
 ```
 
-## Pickups
+## Takeaways
 
 **`Set()`**
 

@@ -8,4 +8,4 @@
 
 ```
 
-## Pickups
+## Takeaways

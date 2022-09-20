@@ -32,7 +32,7 @@ function sameCase(a, b) {
 }
 ```
 
-## Pickups
+## Takeaways
 
 **`String.match()`**
 

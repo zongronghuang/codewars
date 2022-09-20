@@ -9,7 +9,7 @@ const flip = (d, a) =>
   d === "R" ? a.sort((x, y) => x - y) : a.sort((x, y) => y - x);
 ```
 
-## Pickups
+## Takeaways
 
 `Array.sort()` 會直接修改原有的陣列，不會回傳新陣列。
 

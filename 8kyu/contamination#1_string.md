@@ -23,7 +23,7 @@ function contamination(text, char) {
 }
 ```
 
-## Pickups
+## Takeaways
 
 **`Array.fill()`**
 

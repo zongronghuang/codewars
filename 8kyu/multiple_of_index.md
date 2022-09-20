@@ -10,7 +10,7 @@ function multipleOfIndex(array) {
 }
 ```
 
-## Pickups
+## Takeaways
 
 **`Array.filter()`**
 

@@ -15,7 +15,7 @@ function isVow(a) {
 }
 ```
 
-## Pickups
+## Takeaways
 
 **`String.charCodeAt(id)`**
 
